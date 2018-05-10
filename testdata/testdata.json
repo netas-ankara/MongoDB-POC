@@ -1,0 +1,49 @@
+{ "id" : 1, "domainName" : "test1.com", "hosting" : "hostgator.com" }
+{ "id" : 2, "domainName" : "test2.com", "hosting" : "aws.amazon.com"}
+{ "id" : 3, "domainName" : "test3.com", "hosting" : "aws.amazon.com" }
+{ "id" : 4, "domainName" : "test4.com", "hosting" : "hostgator.com" }
+{ "id" : 5, "domainName" : "test5.com", "hosting" : "aws.amazon.com" }
+{ "id" : 6, "domainName" : "test6.com", "hosting" : "cloud.google.com" }
+{ "id" : 7, "domainName" : "test7.com", "hosting" : "aws.amazon.com" }
+{ "id" : 8, "domainName" : "test8.com", "hosting" : "hostgator.com" }
+{ "id" : 9, "domainName" : "test9.com", "hosting" : "cloud.google.com" }
+{ "id" : 10, "domainName" : "test10.com", "hosting" : "godaddy.com" }
+{ "id": "1",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "phoneNumber": "555-555-1212",
+    "city": "Beverly Hills",
+    "state": "CA",
+    "zip": 90210,
+    "email": "Jane.Doe@compose.io"
+  }
+{ "id": "1",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "phoneNumber": "555-555-1212",
+    "city": "Beverly Hills",
+    "state": "CA",
+    "zip": 90210,
+    "email": "Jane.Doe@compose.io"
+  } 
+  {
+    "id": "1",
+    "productId": "1",
+    "customerId": "1",
+    "amount": 20.00,
+    "transactionDate": ISODate("2017-02-23T15:25:56.314Z")
+  }
+  {
+    "id": 1,
+    "student": "Maya",
+    "homework": [ 10, 5, 10 ],
+    "quiz": [ 10, 8 ],
+    "extraCredit": 0
+  }
+  {
+    "id": 2,
+    "student": "Ryan",
+    "homework": [ 5, 6, 5 ],
+    "quiz": [ 8, 8 ],
+    "extraCredit": 8
+  } 

@@ -1,0 +1,12 @@
+{
+    "_id" : 1,
+    "fruit" : [ "apples", "oranges" ],
+    "in_stock" : { "oranges" : 20, "apples" : 60 },
+    "on_order" : { "oranges" : 35, "apples" : 75 }
+ }
+ {
+    "_id" : 2,
+    "vegetables" : [ "beets", "yams" ],
+    "in_stock" : { "beets" : 130, "yams" : 200 },
+    "on_order" : { "beets" : 90, "yams" : 145 }
+ }
